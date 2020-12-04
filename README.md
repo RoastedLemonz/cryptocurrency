@@ -1,3 +1,3 @@
 # notes-on-crypto-stuff
 
-first site thing
+This is be where i will take down notes of everything i learn so far
