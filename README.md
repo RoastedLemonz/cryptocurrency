@@ -1,2 +1,3 @@
 # notes-on-crypto-stuff
-notes
+
+first site thing
