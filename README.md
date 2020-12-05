@@ -9,3 +9,7 @@ Guy creates a dropbox thing also known as an address. It is disposable and he ha
 Commodity: items have value. examples: bear pelt, beaver pelt, wool, rawr materials, etc.
 Representative: stuff like gold certificates, paper, etc are considered valueable.
 Fiat: the government declares what has value, i.e, money - euro, yen, rupee, etc.
+
+# Bitcoin transaction thing again
+when you send someone bitcoin, the network needs to verify that it's real. They need confirmation. This is good because let's say that you are a user with 11 bitcoin. That's a lotta bitcoin. You have your address right? Yes. You also have a private key for spending your bitcoin. let's say that someone pretends to be you with YOUR address. If there's no actual confirmation, people are gonnna be spending your bitcoin left and right. Hence, confirmation is good. This is what i learned so far.
+
